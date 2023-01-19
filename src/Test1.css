@@ -1,0 +1,14 @@
+.components {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nextline {
+    white-space: pre-line;
+}
+
+
+.components label {
+    font-weight: 700;
+}
